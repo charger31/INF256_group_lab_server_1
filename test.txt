@@ -1,1 +1,2 @@
 This is a test to show how Git in VS code works
+This is a new line
